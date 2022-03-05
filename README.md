@@ -1,1 +1,8 @@
 # ANNSIM2021Models
+Contians Colored Petri Nets (CPN) models discussed in the following paper:
+
+V. Gehlot, "A Tutorial Introduction to Colored Petri Nets Framework for Model-Driven System Design and Engineering," 2021 Annual Modeling and Simulation Conference (ANNSIM), 2021, pp. 1-12, doi: 10.23919/ANNSIM52504.2021.9552063.
+
+Abstract: Colored Petri Nets (CPNs) extend the vocabulary of ordinary Petri Nets and add features that make them suitable for modeling large systems. CPNs combine the strengths of ordinary Petri Nets with the strengths of a high-level programming language. Petri Nets provide the primitives for process interaction, while the programming language provides the primitives for the definition of data types and the manipulations of data values. CPNs and the associated integrated development environment, CPN Tools, have been designed and developed with practical applications and ease of use in mind. This paper introduces the audience to the basic concepts of CPNs as well as CPN Tools. We illustrate the key ideas, underlying concepts, software tools, and modeling techniques, by means of numerous real-life examples that emphasize practical applications of CPNs and CPN Tools. Readers need no prior familiarity with Petri nets, system design and analysis, modeling, simulation, or any particular computer language. Our examples include the approach and use of CPN Tools for building and executing hierarchical CPN models, which is useful in the context of model-driven systems engineering for large systems. Our goal is to introduce these topics and encourage the reader to investigate the modeling approach and tools themselves.
+
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9552063&isnumber=9552034
